@@ -1,0 +1,12 @@
+body {
+    color:yellow;
+    background:black;
+    margin: 5px;
+}
+
+header{
+    border-bottom:solid 2px yellow;
+    padding: 20px;
+    font-size: 32px;
+    color: yellow;
+}
